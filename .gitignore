@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Root-level env safety net (backend/frontend have their own .gitignore too)
+.env
+.env.local
+
+# Logs
+*.log

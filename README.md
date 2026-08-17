@@ -2,7 +2,11 @@
 
 > Transform conversations into actionable insights.
 
-An AI Meeting Intelligence Platform that transcribes meeting recordings, extracts action items, decisions, and deadlines, and lets you chat with your meeting history using RAG.
+An AI-powered meeting intelligence platform that goes beyond transcription: Briefly automatically summarizes meetings, extracts action items and decisions, tracks deadlines, and lets you chat with your meeting history using Retrieval-Augmented Generation (RAG).
+
+Built as a production-grade, portfolio-quality full-stack project — React + TypeScript on the frontend, FastAPI on the backend, Neon Postgres with pgvector for semantic search, Supabase for auth and storage, and Groq for fast Whisper transcription and LLM inference. Designed to run entirely on free-tier infrastructure.
+
+Actively in development, built with full documentation at each stage.
 
 ## Stack
 
